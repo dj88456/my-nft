@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Location",
+        "value": "EU"
+      },
+      {
+        "trait_type": "attraction",
+        "value": "Eiffer Tower"
+      }
+    ],
+    "description": "The world's most romantic city",
+    "image": "https://gateway.pinata.cloud/ipfs/QmUdtwuwaaEBbwE4fHq3vTQJ7BATpqUcoNtDuq9rdh1PMa",
+    "name": "France"
+  }
+  
